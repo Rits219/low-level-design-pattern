@@ -1,0 +1,1 @@
+Factor Pattern is used when we create new object based upon some condition.
