@@ -1,0 +1,1 @@
+definition->Bridge pattern decouples an abstraction class from its implementation such that both can grow independently.
